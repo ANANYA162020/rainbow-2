@@ -1,2 +1,5 @@
 # rainbow
-song
+song of rainbow
+blue 
+green
+
